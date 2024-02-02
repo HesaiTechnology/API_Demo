@@ -8,7 +8,7 @@ import datetime, socket, copy, time, sys, os, traceback
 
 PTC_COMMAND_REBOOT                                      = 0x10 # 16
 PTC_COMMAND_FOTA_REQUEST_UPGRADE                        = 0x83 # 131
-PTC_SUB_COMMAND_SET_UPLOAD_FOTA_PPK                     = 0x0001000D 
+PTC_SUB_COMMAND_SET_UPLOAD_FOTA_PPK                     = 0x0000000D 
 
 
 #-------------------------------------------辅助功能函数--------------------------------------
