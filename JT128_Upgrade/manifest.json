@@ -1,0 +1,18 @@
+{
+  "product": "JT128 Upgrade",
+  "version": "2.0.0",
+  "native_api": 1,
+  "python": "Python 3.6 or newer Python 3, 64-bit",
+  "platforms": [
+    "windows-x86_64",
+    "linux-x86_64",
+    "linux-aarch64"
+  ],
+  "sha256": {
+    "JT128_Upgrade.py": "46721fca534330c67a08c1ac6b44e1160aefda05ad4b51989b2152cd70452654",
+    "README.md": "f6684a90aac671147269fcbfb2b7cd1d70d724d3fd0932b9b47f04b038580388",
+    "lib/linux-aarch64/libjt128_upgrade.so": "89d5e1204c1c921ee84ddc539b4e0b0f6d28e6196c3e1eed6db5f3080c71cdb8",
+    "lib/linux-x86_64/libjt128_upgrade.so": "55b3bfe7d957e3ac8c48064264a23477ccffdf8d729959775903ab000b22fc89",
+    "lib/windows-x86_64/jt128_upgrade.dll": "c6d405b63518de852c969109a566263089dd2061d08aa544b82795f511a36d8f"
+  }
+}
