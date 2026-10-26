@@ -1,0 +1,20 @@
+{
+  "product": "JT128 Upgrade (C++ host)",
+  "version": "2.0.0",
+  "native_api": 1,
+  "host": "C++11 single-file source; compile per target platform",
+  "platforms": [
+    "windows-x86_64",
+    "linux-x86_64",
+    "linux-aarch64"
+  ],
+  "sha256": {
+    "CMakeLists.txt": "ea8cc13de1038ad0111d7c63ec50fa4e72a6df9aa84830586ce367b71fecc894",
+    "README.md": "a81b24b01383a5751c5f875984e8c9943c9f2f0f860dfdf4cdcb82d746826e11",
+    "jt128_api.h": "c377182fc5abc70eee81959ec8b04ac1685a94936856eb7cd1c4baf2e3685b12",
+    "jt128_upgrade_cli.cpp": "6e9e39ebde5d03fb38d4e9f079cb56c57dc10e0d3b14011b425426f8f06b3ba9",
+    "lib/linux-aarch64/libjt128_upgrade.so": "89d5e1204c1c921ee84ddc539b4e0b0f6d28e6196c3e1eed6db5f3080c71cdb8",
+    "lib/linux-x86_64/libjt128_upgrade.so": "55b3bfe7d957e3ac8c48064264a23477ccffdf8d729959775903ab000b22fc89",
+    "lib/windows-x86_64/jt128_upgrade.dll": "c6d405b63518de852c969109a566263089dd2061d08aa544b82795f511a36d8f"
+  }
+}
